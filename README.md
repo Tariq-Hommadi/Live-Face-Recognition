@@ -1,10 +1,10 @@
-#Live-Face_Recognition
+# Live-Face_Recognition
 
 
-Face Detection:
+- Face Detection:
 In this step we trained a cascade classifier using a dataset that has positive data, face images, and negative data, random images other than faces. The classifier will detect the faces in the webcam.
 
-Face Recognition:
+- Face Recognition:
 This step has three sub-steps under it.
 
 •	Dataset Creation:
