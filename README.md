@@ -20,3 +20,7 @@ In this we will detect the faces in the image using the model we trained in the 
 i. Converting the image into grayscale.
 ii. Detect the faces in the image using the model we trained in the face detection step
 iii. Recognize the faces in the image and label each face with the names of each person
+
+
+![Seeker Website](https://github.com/Tariq-Hommadi/Seeker/blob/main/images/1.jpg?raw=true "Seeker Website")
+![Seeker Website](https://github.com/Tariq-Hommadi/Seeker/blob/main/images/1.jpg?raw=true "Seeker Website")
