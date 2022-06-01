@@ -22,5 +22,5 @@ ii. Detect the faces in the image using the model we trained in the face detecti
 iii. Recognize the faces in the image and label each face with the names of each person
 
 
-![Seeker Website](https://github.com/Tariq-Hommadi/Seeker/blob/main/images/1.jpg?raw=true "Seeker Website")
-![Seeker Website](https://github.com/Tariq-Hommadi/Seeker/blob/main/images/1.jpg?raw=true "Seeker Website")
+![Results](https://github.com/Tariq-Hommadi/Real-Time-Face-Recognition/blob/main/Picture2.png?raw=true "Results")
+![Results](https://github.com/Tariq-Hommadi/Real-Time-Face-Recognition/blob/main/Picture1.png?raw=true "Results")
